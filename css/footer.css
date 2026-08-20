@@ -1,0 +1,20 @@
+.rodape {
+  background-color: var(--color-green);
+  padding: 18px;
+  text-align: center;
+  font-family: var(--font-text);
+  color: var(--color-black);
+}
+.rodape-titulo {
+  font-size: var(--text-size);
+}
+.rodape-texto {
+  font-size: 0.8rem;
+  font-weight: var(--title-weight);
+}
+.rodape-link {
+  color: var(--color-black);
+}
+.rodape-link:hover {
+  color: var(--color-purple);
+}
